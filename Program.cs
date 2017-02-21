@@ -4,6 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Worldsss!");
+        Console.WriteLine("Hedllo Worldsss!");
     }
 }
